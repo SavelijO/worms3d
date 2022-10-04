@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 576533b1311ba954b9dc37d765d0806e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 0
   color: {r: 0, g: 0, b: 0, a: 0}
-  spawnPosition: {x: 0, y: 0, z: 0}
-  unitCout: 0
+  unitCount: 0
+  unitArr: []
+  unitPrefab: {fileID: 4558685965098074157, guid: c1d3a91b7e9d96c4da1399d5da334086, type: 3}
